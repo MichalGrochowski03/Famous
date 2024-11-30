@@ -11,3 +11,7 @@ In 2011, Gosling had three mainstream successes in the romantic comedy Crazy, St
 * Nominated for the Academy Award for Best Actor in 2007 and 2010
 * Mainstream succes in 2011 with 3 films
 * Nominated for the Academy Award for Best Supporting Actor in "_Barbie_"
+
+You can read more about him on:
+1. [Wikipedia](https://en.wikipedia.org/wiki/Ryan_Gosling)
+2. [iMDb](https://www.imdb.com/name/nm0331516/bio/)
